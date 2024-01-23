@@ -6,4 +6,7 @@ Das ist mein Versuch einen Chatbot mit Django aufzusetzen, ich habe Django das e
 pip3 install django
 pip3 install openai
 
+
+PS. Der chat wird in der archive.txt file gespeichert und in der view.py file kann man den character des chatbots durch prompt engineering anpassen.
+
 das müssten die einzigen requirements sein.
