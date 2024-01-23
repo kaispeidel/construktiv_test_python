@@ -8,5 +8,7 @@ pip3 install openai
 
 
 PS. Der chat wird in der archive.txt file gespeichert und in der view.py file kann man den character des chatbots durch prompt engineering anpassen.
+- falls die API nicht funktioniert einfach in der view.py eine passende und funktionierende API einfügen
 
 das müssten die einzigen requirements sein.
+
